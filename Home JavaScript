@@ -1,0 +1,2 @@
+confirm ("Welcome to our website!")
+console.log(prompt("What is your name”)
