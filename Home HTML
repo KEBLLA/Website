@@ -1,1 +1,28 @@
 // HTML for the home page
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">KEBLLA</p>
+			<a href="mailto:kadevanmeeteren@gmail.com"><p id="email">Email us</p></a>
+		</div>
+		<div class="left">
+		<center>
+		<p><a href="http://www.codecademy.com/register/sign_up">Get Your Skills Here</a></p>
+		<p><a href="">Learn HTML and CSS</a></p>
+		</center>
+		</div>
+		<div class="right">
+			<h4>About Us</h4>
+			<p>Coding since 2014</p>
+			<h4>Experience</h4>
+			<p>Codecademy, AELP students</p>
+			<h4>Skills</h4>
+			<p>Languages: HTML, CSS, and JS</p>
+			<p>Projects: Website</p>
+			</div>
+		<div id="footer">
+			<p>Kade, EB, Berry, Avery, and Lucas| Contact Kade (515) 494-3537</p>
+		</div>
+	</body>
+</html>
+
